@@ -1,3 +1,14 @@
+# Cover'd
+Super simple, quick Node+React practice for a Netflix interview. Using the Google Books API, a user should be able to search by ISBN, Author, or Book Title - then select a book to see its various covers in a grid.
+If I have extra time or am feeling frisky, this will also present the user with the ability to read reviews (linked?), link out to buy, etc., the book they looked up.
+
+If I'm feeling *extra* frisky, I'll maybe come up with some way for books to be discoverable based on genre or something. No high fidelity algorithm, just random books based on some mixture of popularity and other things idk
+
+
+----
+# CRA DOCS BELOW
+----
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
